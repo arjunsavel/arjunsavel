@@ -1,6 +1,6 @@
 ### Hi! I'm Arjun.
 
-I'm a third-year grad student in the Astronomy Department at UMD, College Park. This fall (2023), I'm working as a pre-doctoral fellow at the Flatiron Center for Computational Astrophysics.
+I'm a fourth-year grad student in the Astronomy Department at UMD, College Park.
 
 I like modeling exoplanets (especially their atmospheres), open-source science, and automation.
 
