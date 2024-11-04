@@ -1,6 +1,6 @@
 ### Hi! I'm Arjun.
 
-I'm a fourth-year grad student in the Astronomy Department at UMD, College Park.
+I'm a fifth-year grad student in the Astronomy Department at UMD, College Park.
 
 I like modeling exoplanets (especially their atmospheres), open-source science, and automation.
 
