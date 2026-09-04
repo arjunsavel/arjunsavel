@@ -1,6 +1,6 @@
 ### Hi! I'm Arjun.
 
-I'm a sixth-year grad student in the Astronomy Department at UMD, College Park.
+I'm a postdoc in Caltech PMA working with Ray Jayawardhana.
 
 I like modeling exoplanets (especially their atmospheres), open-source science, and automation.
 
